@@ -5,3 +5,5 @@ docker build -t portifolio .
 
 #iniciar o projeto
 docker run --name portifolio:v1 -p 3000:3000 -d portifolio
+
+11
